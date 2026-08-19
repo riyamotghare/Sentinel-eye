@@ -2,4 +2,5 @@ Flask
 Flask-Cors
 opencv-python-headless
 numpy
-tensorflow
+tensorflow-cpu
+gunicorn
